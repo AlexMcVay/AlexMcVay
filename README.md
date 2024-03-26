@@ -38,4 +38,10 @@ Note: This doesn't reflect all of my work.As these statistics are only based on 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmcvay&" alt="alexmcvay" /></p>
  -->
 
+
+ 
+I have accepted 1,057 completions in 7 different coding languages using Codeium from www.codeium.com!
+
+![image](https://github.com/AlexMcVay/AlexMcVay/assets/72508887/6106144a-e811-4612-a316-ee8ad30c4d11)
+
 <p><a href="https://www.buymeacoffee.com/AlexandraMcVay"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlexandraMcVay" /></a></p><br><br>
