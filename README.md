@@ -29,7 +29,8 @@
 <h3 align="left">Stats:</h3>
 Note: This doesn't reflect all of my work.As these statistics are only based on my work on GitHub 
 
-![metrics]("github-metrics.svg)
+<!-- [metrics]("github-metrics.svg) -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmcvay&show_icons=true&locale=en&layout=compact" alt="alexmcvay" /></p>
 
 <!-- TODO uncomment this when you get a better score 
@@ -39,9 +40,9 @@ Note: This doesn't reflect all of my work.As these statistics are only based on 
  -->
 
 
- 
+ <!--
 I have accepted 1,057 completions in 7 different coding languages using Codeium from www.codeium.com!
 
 ![image](https://github.com/AlexMcVay/AlexMcVay/assets/72508887/6106144a-e811-4612-a316-ee8ad30c4d11)
-
+-->
 <p><a href="https://www.buymeacoffee.com/AlexandraMcVay"> <img align="right" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AlexandraMcVay" /></a></p><br><br>
