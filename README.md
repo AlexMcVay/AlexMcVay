@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alexandra-mcvay/](https://www.linkedin.com/in/alexandra-mcvay/)
 
-- ⚡ Fun fact **I also love birds, fashion and making music!**
+- ⚡ Fun fact **I also love birds, fashion and making music!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
