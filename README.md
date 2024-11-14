@@ -31,7 +31,7 @@ Note: This doesn't reflect all of my work.As these statistics are only based on 
 
 <!-- [metrics]("github-metrics.svg) -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmcvay&show_icons=true&locale=en&layout=compact" alt="alexmcvay" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexmcvay&show_icons=true&locale=en&layout=compact" alt="alexmcvay" /></p> -->
 
 <!-- TODO uncomment this when you get a better score 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmcvay&show_icons=true&locale=en" alt="alexmcvay" /></p>
