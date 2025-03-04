@@ -29,7 +29,7 @@
 <!-- <h3 align="left">Stats:</h3>
 Note: This doesn't reflect all of my work.As these statistics are only based on my work on GitHub -->
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexmcvay&size_weight=1&count_weight=0&langs_count=20&layout=donut-vertical)](https://github.com/alexmcvay/github-readme-stats)
 
 
 <!-- [metrics]("github-metrics.svg) -->
