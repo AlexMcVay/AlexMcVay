@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexandra McVay</h1>
+<h1 align="center">Hi 👋, I'm Alex McVay</h1>
 <h3 align="center">A passionate student learning to become a developer! (also a vetran)</h3>
 
 <!-- TODO: un comment this when you get something <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmcvay" alt="alexmcvay" /></a> </p> -->
