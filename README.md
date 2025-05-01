@@ -38,6 +38,7 @@ Note: This doesn't reflect all of my work.As these statistics are only based on 
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexmcvay&show_icons=true&locale=en&hide_rank=true" alt="alexmcvay" /></p> --> 
+![LeetCode Stats](https://leetcard.jacoblin.cool/AlexmcVay?theme=transparent&font=Big%20Shoulders%20Text&ext=activity)
 
  
 
