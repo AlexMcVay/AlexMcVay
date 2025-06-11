@@ -3,17 +3,6 @@
 
 <!-- TODO: un comment this when you get something <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmcvay" alt="alexmcvay" /></a> </p> -->
 
-- 🌱 I’m currently learning **APIS, Machine learning and other handy skills!**
-
-- 👨‍💻 All of my projects are available at [I am currently building my portfolio](I am currently building my portfolio)
-
-- 💬 Ask me about **anything! If I don't know I would love to find the answer!**
-
-- 📫 How to reach me **alya.mcvay@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/alexandra-mcvay/](https://www.linkedin.com/in/alexandra-mcvay/)
-
-- ⚡ Fun fact **I also love birds, fashion and making music!** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
