@@ -1,4 +1,35 @@
-<h1 align="center">Hi 👋, I'm Alex McVay</h1>
+👋 Hey, you. I'm Jerome Amos. I'm a senior full-stack developer with 10 plus years of experience. I enjoy building sites & apps. My focus is React(Typescript)| Next.js.
+
+About Me
+With over 10 years of hands-on expertise in software development, I bring a dynamic blend of creativity and technical proficiency to every project. My journey began with a rigorous boot camp education, where I honed my skills in full-stack development and discovered my passion for crafting innovative digital solutions.
+
+Throughout my career, I've had the privilege of contributing to the success of renowned brands such as NBC News, Today Show, MSNBC, Chanel, David Yurman, Clover POS, AceTools, Levi's, and CKOne, among others. These experiences have not only enriched my technical capabilities but also sharpened my ability to deliver high-quality, user-centric applications that exceed client expectations. Currently specializing in React.js/Next.js and embracing a full-stack approach, I thrive on tackling complex challenges and transforming ideas into seamless, intuitive user experiences. Whether it's creating a robust backend systems or designing responsive front-ends, I am committed to leveraging cutting-edge technologies to drive innovation and achieve tangible results.
+
+Beyond coding, I am dedicated to continuous learning and staying at the forefront of industry trends. My adaptable mindset and collaborative spirit enable me to thrive in fast-paced environments, where teamwork and creativity are paramount. I look forward to connecting with like-minded professionals and exploring opportunities to create impactful solutions that redefine user engagement and elevate digital experiences.
+
+My current core stack is React, Next.js, Node.js, and MongoDB. I am also familiar with TypeScript and Prisma. I am always looking to learn new technologies. I am currently looking for a full-time position as a software developer.
+
+Technical Skills 🛠️
+Languages: JavaScript, TypeScript, PHP, HTML, CSS, SASS, Tailwind CSS
+Frameworks & Libraries: React, Next.js, Node.js,React Testing Library, React, Redux, GraphQL, Remix,Express, JEST, JWT, PostgreSQL, MongoDB, Prisma, React Form, Next.js, Server Action, Zustand
+Tools & Platforms: GitHub, Vercel, Apollo, Vitest
+Key Projects 📚
+Amosdesigns.net: showing my portfolio site.
+You can view these and more here.
+
+Professional Goals 🚀
+Architectural Leadership: Take a lead role in designing scalable and efficient architectures for complex systems. This could involve mentoring junior developers, conducting architectural reviews, and ensuring that the overall system design aligns with best practices and business requirements.
+Technological Mastery: Stay at the forefront of technology trends and deepen expertise in key technologies relevant to full-stack development. This might include mastering new frameworks or languages, exploring advanced topics like microservices architecture or cloud-native development, and integrating cutting-edge solutions into existing systems.
+Process Improvement: Champion process improvements within the development team or organization. This could involve implementing agile practices more effectively, introducing automation to streamline workflows (such as CI/CD pipelines), or advocating for best practices in code quality, testing, and deployment.
+Connect with Me 📬
+🐦 X
+📫 Email
+🔗 LinkedIn
+
+
+
+
+I’m looking forward to collaborating on projects that are at the intersection of technology and social good. Let’s connect! 🌍<h1 align="center">Hi 👋, I'm Alex McVay</h1>
 <h3 align="center">A passionate student learning to become a developer! (also a vetran)</h3>
 
 <!-- TODO: un comment this when you get something <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexmcvay" alt="alexmcvay" /></a> </p> -->
