@@ -24,3 +24,13 @@ jobs:
           git add merged-calendar.svg
           git commit -m "Update contribution calendar" || exit 0
           git push
+- name: Generate Language SVG
+        run: node generate-languages.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_CALENDAR_TOKEN }}
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git add merged-calendar.svg merged-languages.svg
+          git commit -m "Update contribution and language stats" || exit 0
+          git push
