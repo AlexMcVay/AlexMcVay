@@ -21,4 +21,7 @@
 ### My Merged Contributions
 ![Merged Calendar](./merged-calendar.svg)
 
+
+### Top Languages (Combined)
+![Merged Languages](./merged-languages.svg)
 [![Top Langs](https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=alexM-glitch,alexmcvay&show_icons=true&hide_border=false&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
