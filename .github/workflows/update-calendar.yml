@@ -2,35 +2,33 @@ name: Update Merged Calendar
 on:
   schedule:
     - cron: '0 0 * * *' # Every day at midnight
-  workflow_dispatch: # Allow manual run
+  workflow_dispatch:      # This enables the manual "Run workflow" button
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
           node-version: '20'
-      - name: Generate SVG
+
+      - name: Generate Calendar SVG
         run: node generate-calendar.js
         env:
           GITHUB_TOKEN: ${{ secrets.GH_CALENDAR_TOKEN }}
-      - name: Commit changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add merged-calendar.svg
-          git commit -m "Update contribution calendar" || exit 0
-          git push
-- name: Generate Language SVG
+
+      - name: Generate Language SVG
         run: node generate-languages.js
         env:
           GITHUB_TOKEN: ${{ secrets.GH_CALENDAR_TOKEN }}
-      - name: Commit changes
+
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add merged-calendar.svg merged-languages.svg
           git commit -m "Update contribution and language stats" || exit 0
           git push
