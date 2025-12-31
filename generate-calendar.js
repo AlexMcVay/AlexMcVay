@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // Configuration
-const USERNAMES = ['account1', 'account2']; // Replace with your accounts
+const USERNAMES = ['AlexMcVay', 'alexM-glitch']; 
 const THEME = {
   level0: '#ebedf0',
   level1: '#9be9a8',
