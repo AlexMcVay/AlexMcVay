@@ -1,35 +1,35 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
       <clipPath id="rect-clip"><rect width="400" height="16" rx="8" /></clipPath>
-      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="105.54471049357608" height="16" fill="#f1e05a" /><rect x="105.54471049357608" y="0" width="94.60233606606204" height="16" fill="#e34c26" /><rect x="200.1470465596381" y="0" width="78.70667104629415" height="16" fill="#DA5B0B" /><rect x="278.8537176059323" y="0" width="35.836812357357175" height="16" fill="#3572A5" /><rect x="314.69052996328946" y="0" width="25.864877146343662" height="16" fill="#663399" /><rect x="340.5554071096331" y="0" width="16.470576221686304" height="16" fill="#b07219" /><rect x="357.0259833313194" y="0" width="8.646814246497007" height="16" fill="#336790" /><rect x="365.6727975778164" y="0" width="8.197164928714756" height="16" fill="#f34b7d" /></g>
+      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="101.23592625906622" height="16" fill="#f1e05a" /><rect x="101.23592625906622" y="0" width="101.02207559212964" height="16" fill="#e34c26" /><rect x="202.25800185119584" y="0" width="75.49352979298929" height="16" fill="#DA5B0B" /><rect x="277.75153164418515" y="0" width="38.470918757968384" height="16" fill="#3572A5" /><rect x="316.2224504021535" y="0" width="26.75973795947285" height="16" fill="#663399" /><rect x="342.98218836162636" y="0" width="15.798177208742736" height="16" fill="#b07219" /><rect x="358.7803655703691" y="0" width="8.293814491892448" height="16" fill="#336790" /><rect x="367.0741800622616" y="0" width="7.862521772773055" height="16" fill="#f34b7d" /></g>
       
       <g transform="translate(0, 25)">
         <circle cx="5" cy="5" r="5" fill="#f1e05a" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">JavaScript 26.4%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">JavaScript 25.3%</text>
       </g>
       <g transform="translate(100, 25)">
         <circle cx="5" cy="5" r="5" fill="#e34c26" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">HTML 23.7%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">HTML 25.3%</text>
       </g>
       <g transform="translate(200, 25)">
         <circle cx="5" cy="5" r="5" fill="#DA5B0B" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Jupyter Notebook 19.7%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Jupyter Notebook 18.9%</text>
       </g>
       <g transform="translate(300, 25)">
         <circle cx="5" cy="5" r="5" fill="#3572A5" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Python 9.0%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Python 9.6%</text>
       </g>
       <g transform="translate(0, 45)">
         <circle cx="5" cy="5" r="5" fill="#663399" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">CSS 6.5%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">CSS 6.7%</text>
       </g>
       <g transform="translate(100, 45)">
         <circle cx="5" cy="5" r="5" fill="#b07219" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Java 4.1%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Java 3.9%</text>
       </g>
       <g transform="translate(200, 45)">
         <circle cx="5" cy="5" r="5" fill="#336790" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">PLpgSQL 2.2%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">PLpgSQL 2.1%</text>
       </g>
       <g transform="translate(300, 45)">
         <circle cx="5" cy="5" r="5" fill="#f34b7d" />
