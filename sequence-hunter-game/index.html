@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sequence Hunter</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <!-- Start Screen -->
+        <div id="start-screen" class="screen">
+            <h1>Sequence Hunter</h1>
+            <p class="subtitle">A Sequential Vigilance Task</p>
+            <div class="instructions">
+                <h3>How to Play</h3>
+                <p>Watch the stream of numbers carefully.</p>
+                <p>When the last 3 numbers match any target sequence, press <strong>HIT</strong> or <strong>SPACEBAR</strong>!</p>
+                <ul>
+                    <li><span class="green">Correct Hit:</span> +100 points</li>
+                    <li><span class="red">False Alarm:</span> -50 points</li>
+                    <li><span class="yellow">Miss:</span> Combo reset</li>
+                </ul>
+            </div>
+            <button id="start-btn" class="btn btn-primary">Start Game</button>
+        </div>
+
+        <!-- Game Screen -->
+        <div id="game-screen" class="screen hidden">
+            <!-- HUD -->
+            <div class="hud">
+                <div class="hud-item">
+                    <span class="hud-label">Score</span>
+                    <span id="score" class="hud-value">0</span>
+                </div>
+                <div class="hud-item">
+                    <span class="hud-label">Level</span>
+                    <span id="level" class="hud-value">1</span>
+                </div>
+                <div class="hud-item">
+                    <span class="hud-label">Combo</span>
+                    <span id="combo" class="hud-value">x1</span>
+                </div>
+                <div class="hud-item">
+                    <span class="hud-label">Time</span>
+                    <span id="timer" class="hud-value">60</span>
+                </div>
+            </div>
+
+            <!-- The Stream -->
+            <div class="stream-container">
+                <h2>The Stream</h2>
+                <div id="stream-display" class="stream-display">
+                    <span id="current-number">-</span>
+                </div>
+                <div id="buffer-display" class="buffer-display">
+                    <span class="buffer-label">Buffer:</span>
+                    <span id="buffer-0" class="buffer-num">-</span>
+                    <span id="buffer-1" class="buffer-num">-</span>
+                    <span id="buffer-2" class="buffer-num">-</span>
+                </div>
+            </div>
+
+            <!-- Feedback Display -->
+            <div id="feedback" class="feedback hidden"></div>
+
+            <!-- The Targets -->
+            <div class="targets-container">
+                <h2>Target Sequences</h2>
+                <div class="targets">
+                    <div id="target-0" class="target-box">
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                    </div>
+                    <div id="target-1" class="target-box">
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                    </div>
+                    <div id="target-2" class="target-box">
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                        <span class="target-sep">-</span>
+                        <span class="target-num">-</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Hit Button -->
+            <div class="input-container">
+                <button id="hit-btn" class="btn btn-hit">HIT</button>
+                <p class="hint">or press SPACEBAR</p>
+            </div>
+        </div>
+
+        <!-- Game Over Screen -->
+        <div id="gameover-screen" class="screen hidden">
+            <h1>Game Over</h1>
+            <div class="final-stats">
+                <div class="stat">
+                    <span class="stat-label">Final Score</span>
+                    <span id="final-score" class="stat-value">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Level Reached</span>
+                    <span id="final-level" class="stat-value">1</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Hits</span>
+                    <span id="final-hits" class="stat-value">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Misses</span>
+                    <span id="final-misses" class="stat-value">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">False Alarms</span>
+                    <span id="final-false-alarms" class="stat-value">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Best Combo</span>
+                    <span id="final-best-combo" class="stat-value">x1</span>
+                </div>
+            </div>
+            <button id="restart-btn" class="btn btn-primary">Play Again</button>
+        </div>
+    </div>
+
+    <script src="game.js"></script>
+</body>
+</html>
