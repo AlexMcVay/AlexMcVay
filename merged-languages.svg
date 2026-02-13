@@ -1,7 +1,7 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
       <clipPath id="rect-clip"><rect width="400" height="16" rx="8" /></clipPath>
-      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="108.57573399128981" height="16" fill="#f1e05a" /><rect x="108.57573399128981" y="0" width="94.21020384507113" height="16" fill="#e34c26" /><rect x="202.78593783636094" y="0" width="76.57950951332197" height="16" fill="#DA5B0B" /><rect x="279.3654473496829" y="0" width="34.86827071155343" height="16" fill="#3572A5" /><rect x="314.2337180612363" y="0" width="27.928265081388993" height="16" fill="#663399" /><rect x="342.1619831426253" y="0" width="16.025435095795594" height="16" fill="#b07219" /><rect x="358.1874182384209" y="0" width="8.413121594992466" height="16" fill="#336790" /><rect x="366.60053983341334" y="0" width="7.975624699862557" height="16" fill="#f34b7d" /></g>
+      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="108.31449426072506" height="16" fill="#f1e05a" /><rect x="108.31449426072506" y="0" width="93.98352844197497" height="16" fill="#e34c26" /><rect x="202.29802270270002" y="0" width="76.39525461863578" height="16" fill="#DA5B0B" /><rect x="278.6932773213358" y="0" width="35.74679956025186" height="16" fill="#3572A5" /><rect x="314.4400768815877" y="0" width="27.861067999897582" height="16" fill="#663399" /><rect x="342.30114488148524" y="0" width="15.98687693742344" height="16" fill="#b07219" /><rect x="358.2880218189087" y="0" width="8.3928791196447" height="16" fill="#336790" /><rect x="366.6809009385534" y="0" width="7.956434868294441" height="16" fill="#f34b7d" /></g>
       
       <g transform="translate(0, 25)">
         <circle cx="5" cy="5" r="5" fill="#f1e05a" />
@@ -9,7 +9,7 @@
       </g>
       <g transform="translate(100, 25)">
         <circle cx="5" cy="5" r="5" fill="#e34c26" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">HTML 23.6%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">HTML 23.5%</text>
       </g>
       <g transform="translate(200, 25)">
         <circle cx="5" cy="5" r="5" fill="#DA5B0B" />
@@ -17,7 +17,7 @@
       </g>
       <g transform="translate(300, 25)">
         <circle cx="5" cy="5" r="5" fill="#3572A5" />
-        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Python 8.7%</text>
+        <text x="15" y="9" font-family="sans-serif" font-size="10" fill="#666">Python 8.9%</text>
       </g>
       <g transform="translate(0, 45)">
         <circle cx="5" cy="5" r="5" fill="#663399" />
