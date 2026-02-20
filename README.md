@@ -25,7 +25,16 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><a href="https://n8n.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/n8nio/n8nio-icon.svg" alt="n8n" width="40" height="40"/> </a>
-</p> 
+</p>
+
+
+### Projects
+
+<a href="https://alexmcvay.github.io/AlexMcVay/songwriting.html">
+  <img src="https://img.shields.io/badge/🎵_Songwriter's_Workstation-Listen_&_Create-blue?style=for-the-badge&logo=music&logoColor=white" alt="Songwriter's Workstation" />
+</a>
+
+> A browser-based songwriting tool for composing lyrics, chords, and sheet music — with PDF export and draft saving.
 
 
 ### My Merged Contributions
