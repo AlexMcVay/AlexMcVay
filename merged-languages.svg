@@ -1,7 +1,7 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
       <clipPath id="rect-clip"><rect width="400" height="16" rx="8" /></clipPath>
-      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="111.46718793198112" height="16" fill="#e34c26" /><rect x="111.46718793198112" y="0" width="102.12615503230002" height="16" fill="#f1e05a" /><rect x="213.59334296428113" y="0" width="72.03055943865333" height="16" fill="#DA5B0B" /><rect x="285.62390240293445" y="0" width="33.704475275591776" height="16" fill="#3572A5" /><rect x="319.32837767852624" y="0" width="26.26927974269015" height="16" fill="#663399" /><rect x="345.5976574212164" y="0" width="15.07349763055321" height="16" fill="#b07219" /><rect x="360.67115505176963" y="0" width="7.913368196845151" height="16" fill="#336790" /><rect x="368.5845232486148" y="0" width="7.501859344031214" height="16" fill="#f34b7d" /></g>
+      <g clip-path="url(#rect-clip)"><rect x="0" y="0" width="111.60396804144897" height="16" fill="#e34c26" /><rect x="111.60396804144897" y="0" width="102.07774172857651" height="16" fill="#f1e05a" /><rect x="213.68170977002546" y="0" width="71.99641306987664" height="16" fill="#DA5B0B" /><rect x="285.67812283990213" y="0" width="33.688497537099195" height="16" fill="#3572A5" /><rect x="319.3666203770013" y="0" width="26.256826687756487" height="16" fill="#663399" /><rect x="345.6234470647578" y="0" width="15.066351979972973" height="16" fill="#b07219" /><rect x="360.68979904473076" y="0" width="7.909616833662343" height="16" fill="#336790" /><rect x="368.59941587839313" y="0" width="7.498303058231569" height="16" fill="#f34b7d" /></g>
       
       <g transform="translate(0, 25)">
         <circle cx="5" cy="5" r="5" fill="#e34c26" />
