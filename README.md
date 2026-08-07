@@ -36,10 +36,10 @@
 
 > A browser-based songwriting tool for composing lyrics, chords, and sheet music — with PDF export and draft saving.
 
-
+<!--
 ### My Merged Contributions
 ![Merged Calendar](./merged-calendar.svg)
-
+-->
 
 ### Top Languages (Combined)
 ![Merged Languages](./merged-languages.svg)
